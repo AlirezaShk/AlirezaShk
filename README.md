@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/30309258/216741733-288cf403-a0ce-437f-9dec-505538e42299.gif">
 </div>
 <div align="center" id="skillset">
-  <p>I love adding new skills to my skillset. Here is my technical stack:</p>
+  <p>I love learning new stuff, collaborating, and discussing ideas.<br>You can read my techblog or connect to me via the provided links.<br>Also, here is my current technical stack:</p>
   <table>
     <thead><tr>
       <th> Frontend </th>
@@ -83,11 +83,72 @@
           <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&amp;logo=postgresql" alt="PostgreSQL"><img src="https://geps.dev/progress/60">
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/-AWS-333333?style=flat&amp;logo=aws" alt="AWS"><img src="https://geps.dev/progress/80">
+          <img src="https://img.shields.io/badge/-AWS-333333?style=flat&amp;logo=amazon" alt="AWS"><img src="https://geps.dev/progress/80">
           <table>
             <thead><th>Services</th></thead>
             <tbody>
               <tr><td align="center"><img src="https://img.shields.io/badge/-Cloudwatch-333333?style=flat" alt="Cloudwatch"> <img src="https://img.shields.io/badge/-Codepipeline-333333?style=flat" alt="Codepipeline"> <img src="https://img.shields.io/badge/-IAM%20Management-333333?style=flat" alt="IAM Management"><br><img src="https://img.shields.io/badge/-Personalize-333333?style=flat" alt="Personalize"> <img src="https://img.shields.io/badge/-S3-333333?style=flat" alt="S3"> <img src="https://img.shields.io/badge/-Elastic%20Container%20Service-333333?style=flat" alt="Elastic Container Service"><br><img src="https://img.shields.io/badge/-Elastic%20Kubernetes%20Service-333333?style=flat" alt="Elastic Kubernetes Service"> <img src="https://img.shields.io/badge/-Athena%20DB-333333?style=flat" alt="Athena DB"></td></tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <!-- Row 3 --!>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-HTML%205-333333?style=flat&amp;logo=HTML5" alt="HTML"><img src="https://geps.dev/progress/100">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Golang-333333?style=flat&amp;logo=go" alt="Golang"><img src="https://geps.dev/progress/60">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&amp;logo=sqlite" alt="SQLite"><img src="https://geps.dev/progress/90">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-GCP-333333?style=flat&amp;logo=google" alt="GCP"><img src="https://geps.dev/progress/80">
+          <table>
+            <thead><th>Services</th></thead>
+            <tbody>
+              <tr><td align="center"><img src="https://img.shields.io/badge/-BigQuery-333333?style=flat" alt="BigQuery"> <img src="https://img.shields.io/badge/-GKE-333333?style=flat" alt="GKE"> <img src="https://img.shields.io/badge/-Vertex%20AI-333333?style=flat" alt="Vertex AI"> <img src="https://img.shields.io/badge/-Cloud%20Composer-333333?style=flat" alt="Cloud Composer"><br><img src="https://img.shields.io/badge/-Cloud%20Storage%20Buckets-333333?style=flat" alt="Cloud Storage Buckets"> <img src="https://img.shields.io/badge/-AutoML-333333?style=flat" alt="AutoML"> <img src="https://img.shields.io/badge/-Feature%20Store-333333?style=flat" alt="Feature Store"><br><img src="https://img.shields.io/badge/-Memory%20Store-333333?style=flat" alt="Memory Store"></td></tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <!-- Row 4 --!>
+      <tr>
+        <td align="center" rowspan="3">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Ruby-333333?style=flat&amp;logo=ruby" alt="Ruby"><img src="https://geps.dev/progress/90">
+          <br>
+          <img src="https://img.shields.io/badge/-Rails-333333?style=flat&amp;logo=rubyonrails" alt="Ruby on Rails"><img src="https://geps.dev/progress/90">
+        </td>
+        <td align="center" rowspan="3">
+          <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&amp;logo=mongodb" alt="MongoDB"><img src="https://geps.dev/progress/80">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Docker-333333?style=flat&amp;logo=docker" alt="Docker"><img src="https://geps.dev/progress/80">
+        </td>
+      </tr>
+      <!-- Row 5 --!>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&amp;logo=typescript" alt="Typescript"><img src="https://geps.dev/progress/80">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&amp;logo=kubernetes" alt="Kubernetes"><img src="https://geps.dev/progress/70">
+        </td>
+      </tr>
+      <!-- Row 6 --!>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-C++-333333?style=flat&amp;logo=c" alt="CPP"><img src="https://geps.dev/progress/80">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Linux-333333?style=flat&amp;logo=linux" alt="linux"><img src="https://geps.dev/progress/65">
+          <table>
+            <thead><th>Important Packages</th></thead>
+            <tbody>
+              <tr><td align="center"><img src="https://img.shields.io/badge/-ROS-333333?style=flat" alt="ROS"> <img src="https://img.shields.io/badge/-Gazebo-333333?style=flat" alt="Gazebo"></td></tr>
             </tbody>
           </table>
         </td>
