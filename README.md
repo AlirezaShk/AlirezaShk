@@ -11,10 +11,15 @@
 <br>
 <div align="center" id="bio">
   <p>I'm a senior fullstack developer living at</p>
-  <img src="https://user-images.githubusercontent.com/30309258/216741733-288cf403-a0ce-437f-9dec-505538e42299.gif">
+  <img src="https://user-images.githubusercontent.com/30309258/216746484-7f1ed184-a4b5-4f2d-8d5d-499a5852293f.gif" title="via ezgif.com">
 </div>
 <div align="center" id="skillset">
-  <p>I love learning new stuff, collaborating, and discussing ideas.<br>You can read my techblog or connect to me via the provided links.<br>Also, here is my current technical stack:</p>
+  <p>I love learning new stuff, collaborating, and discussing ideas.<br>You can read my techblog or connect to me via the provided links.</p>
+  <br>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni&theme=tokyonight)
+
+  <p>Also, here is my current technical stack:</p>
   <table>
     <thead><tr>
       <th> Frontend </th>
