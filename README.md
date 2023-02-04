@@ -87,7 +87,7 @@
           <table>
             <thead><th>Services</th></thead>
             <tbody>
-              <tr><td align="center"><img src="https://img.shields.io/badge/-Cloudwatch-333333?style=flat" alt="Cloudwatch"> <img src="https://img.shields.io/badge/-Codepipeline-333333?style=flat" alt="Codepipeline"> <img src="https://img.shields.io/badge/-IAM%20Management-333333?style=flat" alt="IAM Management"><br><img src="https://img.shields.io/badge/-Personalize-333333?style=flat" alt="Personalize"> <img src="https://img.shields.io/badge/-S3-333333?style=flat" alt="S3"> <img src="https://img.shields.io/badge/-Elastic%20Container%20Service-333333?style=flat" alt="Elastic Container Service"><br><img src="https://img.shields.io/badge/-Elastic%20Kubernetes%20Service-333333?style=flat" alt="Elastic Kubernetes Service"> <img src="https://img.shields.io/badge/-Athena%20DB-333333?style=flat" alt="Athena DB"></td></tr>
+              <tr><td align="center"><img src="https://img.shields.io/badge/-Cloudwatch-333333?style=flat" alt="Cloudwatch"> <img src="https://img.shields.io/badge/-Codepipeline-333333?style=flat" alt="Codepipeline"> <img src="https://img.shields.io/badge/-Athena%20DB-333333?style=flat" alt="Athena DB"><br><img src="https://img.shields.io/badge/-IAM%20Management-333333?style=flat" alt="IAM Management"> <img src="https://img.shields.io/badge/-Personalize-333333?style=flat" alt="Personalize"> <img src="https://img.shields.io/badge/-S3-333333?style=flat" alt="S3"><br><img src="https://img.shields.io/badge/-Elastic%20Container%20Service-333333?style=flat" alt="Elastic Container Service"><br><img src="https://img.shields.io/badge/-Elastic%20Kubernetes%20Service-333333?style=flat" alt="Elastic Kubernetes Service"> </td></tr>
             </tbody>
           </table>
         </td>
@@ -108,7 +108,7 @@
           <table>
             <thead><th>Services</th></thead>
             <tbody>
-              <tr><td align="center"><img src="https://img.shields.io/badge/-BigQuery-333333?style=flat" alt="BigQuery"> <img src="https://img.shields.io/badge/-GKE-333333?style=flat" alt="GKE"> <img src="https://img.shields.io/badge/-Vertex%20AI-333333?style=flat" alt="Vertex AI"> <img src="https://img.shields.io/badge/-Cloud%20Composer-333333?style=flat" alt="Cloud Composer"><br><img src="https://img.shields.io/badge/-Cloud%20Storage%20Buckets-333333?style=flat" alt="Cloud Storage Buckets"> <img src="https://img.shields.io/badge/-AutoML-333333?style=flat" alt="AutoML"> <img src="https://img.shields.io/badge/-Feature%20Store-333333?style=flat" alt="Feature Store"><br><img src="https://img.shields.io/badge/-Memory%20Store-333333?style=flat" alt="Memory Store"></td></tr>
+              <tr><td align="center"><img src="https://img.shields.io/badge/-BigQuery-333333?style=flat" alt="BigQuery"> <img src="https://img.shields.io/badge/-GKE-333333?style=flat" alt="GKE"> <img src="https://img.shields.io/badge/-Vertex%20AI-333333?style=flat" alt="Vertex AI"><br><img src="https://img.shields.io/badge/-Cloud%20Composer-333333?style=flat" alt="Cloud Composer"> <img src="https://img.shields.io/badge/-Memory%20Store-333333?style=flat" alt="Memory Store"><br><img src="https://img.shields.io/badge/-AutoML-333333?style=flat" alt="AutoML"> <img src="https://img.shields.io/badge/-Feature%20Store-333333?style=flat" alt="Feature Store"><br><img src="https://img.shields.io/badge/-Cloud%20Storage%20Buckets-333333?style=flat" alt="Cloud Storage Buckets"></td></tr>
             </tbody>
           </table>
         </td>
