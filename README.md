@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<div align="center" id="header">
+  <h3>Hi there! I'm Andrew</h3>
+  <kbd width="50%">
+  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110d8db801eebb7cbea9b45d2ce3c383d4c2fc7990&rid=giphy.gif&ct=g" width="100%" title="via GIPHY"></div>
+  <div><a href="https://alireza-sharifikia.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-Techblog-%232962FF?style=for-the-badge"></a></div>
+  <div><a href="https://www.linkedin.com/in/alireza-sharifikia-5232b513b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:alireza.sharifikia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
+  <img src="https://komarev.com/ghpvc/?username=AlirezaShk">
+  </kbd>
+</div>
 <!--
 **AlirezaShk/AlirezaShk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
